@@ -13,7 +13,7 @@ Ducket books are
 | Read    | Topic/Link|
 |---|---|
 | Read 1  |  Introduction about programming /[link](https://rowaidsayyed.github.io/reading-notes/class-01)     |
-| Read 2  | HTML Text, CSS Introduction, and Basic JavaScript Instructions/[link](https://rowaidsayyed.github.io/reading-notes/class-01) |
+| Read 2  | HTML Text, CSS Introduction, and Basic JavaScript Instructions/[link](https://rowaidsayyed.github.io/reading-notes/class-02) |
 | Read 3  |                                                                                                    |
 | Read 4  |                                                                                                    |
 | Read 5  |                                                                                                    |
