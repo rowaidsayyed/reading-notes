@@ -10,7 +10,6 @@ Ducket books are
 
 ## Table of contents
 | Read    | Topic/Link|
-
 |---|---|
 
 | Read 1  |  Introduction about programming /[link](https://rowaidsayyed.github.io/reading-notes/class-01)     |
