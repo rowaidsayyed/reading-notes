@@ -2,7 +2,7 @@
 
 ## Welcome 201d3
 
-This website is for *201* course and here I will put and add a summary for what i will read from ducket books about **HTML CSS and javascript**.
+This website is for *201* course and here I will put and add a summary for what i will read from ducket books about **HTML, CSS and javascript**.
 
 Ducket books are
 1. Duckett HTML and CSS book
