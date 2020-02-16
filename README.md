@@ -9,21 +9,20 @@ Ducket books are
 2. Duckett JS book 
 
 ## Table of contents
-|         | Topic/Link |
-|---------|------------|
-| Read 1  |  Introduction about programming using HTML ,CSS and javascript/[link](https://rowaidsayyed.github.io/reading-notes/class-01)     |
-| Read 2  |       |
-| Read 3  |       |
-| Read 4  |       |
-| Read 5  |       |
-| Read 6  |       |
-| Read 7  |       |
-| Read 8  |       |
-| Read 9  |       |
-| Read 10 |       |
-| Read 11 |       |
-| Read 12 |       |
-| Read 13 |       |
-| Read 14 |       |
-| Read 15 |       |
-|         |       |
+| Read    | Topic/Link                                                                                         |
+|---------|----------------------------------------------------------------------------------------------------|
+| Read 1  |  Introduction about programming /[link](https://rowaidsayyed.github.io/reading-notes/class-01)     |
+| Read 2  |                                                                                                    |
+| Read 3  |                                                                                                    |
+| Read 4  |                                                                                                    |
+| Read 5  |                                                                                                    |
+| Read 6  |                                                                                                    |
+| Read 7  |                                                                                                    |
+| Read 8  |                                                                                                    |
+| Read 9  |                                                                                                    |
+| Read 10 |                                                                                                    |
+| Read 11 |                                                                                                    |
+| Read 12 |                                                                                                    |
+| Read 13 |                                                                                                    |
+| Read 14 |                                                                                                    |
+| Read 15 |                                                                                                    |
