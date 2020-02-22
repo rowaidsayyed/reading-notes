@@ -49,15 +49,15 @@ Accessing and updating the DOM tree:
 
 ### To add HTML content we can use 
 1. innerHTML property
-2. 1. createEl ement ()
-   2. createTextNode()
-   3. appendChild()
+2.  1. createEl ement ()
+    2. createTextNode()
+    3. appendChild()
 
 ### To remove HTML content we can use 
 1. innerHTML property
-2. 1. STORE THE ELEMENT TO BE REMOVED IN A VARIABLE
-   2. STORE THE PARENT OF THAT ELEMENT IN A VARIABLE `parentNode`
-   3. REMOVE THE ELEMENT FROM ITS CONTAINING ELEMENT `removeChild()`
+2.  1. STORE THE ELEMENT TO BE REMOVED IN A VARIABLE
+    2. STORE THE PARENT OF THAT ELEMENT IN A VARIABLE `parentNode`
+    3. REMOVE THE ELEMENT FROM ITS CONTAINING ELEMENT `removeChild()`
 
 ### Cross-Site Scripting Attacks(XSS)
 If we add HTML to a page using innerHTML (or several jQuery methods),we need to be aware of XSS; otherwise,
