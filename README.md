@@ -17,7 +17,7 @@ Ducket books are
 | Read 3  | HTML Lists, CSS Boxes, JS Control Flow/[link](https://rowaidsayyed.github.io/reading-notes/class-03) |
 | Read 4  | HTML Links, CSS Layout, JS Functions/[link](https://rowaidsayyed.github.io/reading-notes/class-04) |
 | Read 5  | HTML Images; CSS Color & Text/[link](https://rowaidsayyed.github.io/reading-notes/class-05)        |
-| Read 6  |                                                                                                    |
+| Read 6  | JS Object Literals; The DOM/[link](https://rowaidsayyed.github.io/reading-notes/class-06)        |
 | Read 7  |                                                                                                    |
 | Read 8  |                                                                                                    |
 | Read 9  |                                                                                                    |
