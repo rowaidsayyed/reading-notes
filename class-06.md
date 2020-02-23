@@ -49,7 +49,7 @@ Accessing and updating the DOM tree:
 
 ### To add HTML content we can use 
 1. innerHTML property
-2.  1. createEl ement ()
+2.  1. createElement ()
     2. createTextNode()
     3. appendChild()
 
