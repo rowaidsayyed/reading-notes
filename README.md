@@ -20,7 +20,7 @@ Ducket books are
 | Read 6  | JS Object Literals; The DOM/[link](https://rowaidsayyed.github.io/reading-notes/class-06)          |
 | Read 7  | HTML Tables; JS Constructor Functions/[link](https://rowaidsayyed.github.io/reading-notes/class-07)  |
 | Read 8  | More CSS Layout/[link](https://rowaidsayyed.github.io/reading-notes/class-08)                      |
-| Read 9  |                                                                                                    |
+| Read 9  | Forms and Events/[link](https://rowaidsayyed.github.io/reading-notes/class-09)                     |
 | Read 10 |                                                                                                    |
 | Read 11 |                                                                                                    |
 | Read 12 |                                                                                                    |
