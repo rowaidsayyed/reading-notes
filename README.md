@@ -24,6 +24,6 @@ Ducket books are
 | Read 10 | JS Debugging/[link](https://rowaidsayyed.github.io/reading-notes/class-10)                         |
 | Read 11 | Assorted Topics/[link](https://rowaidsayyed.github.io/reading-notes/class-11)                      |
 | Read 12 | Docs for the HTML `<canvas>` Element & Chart.js/[link](https://rowaidsayyed.github.io/reading-notes/class-12)|
-| Read 13 |                                                                                                    |
+| Read 13 | Local Storage/[link](https://rowaidsayyed.github.io/reading-notes/class-13)                        |
 | Read 14 |                                                                                                    |
 | Read 15 |                                                                                                    |
